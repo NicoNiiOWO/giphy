@@ -9,8 +9,9 @@ $("#search-button").click(function(){
         url: search,
         method: "GET",
         success: function(response) {
-            console.log(response.data[0].images.original.url);
-            $(".gallery").append("<img src='"+response.data[0].images.original.url+"'>");
+            console.log(response);
+            var n = Math.floor(Math.random()*response.data.length)
+            $(".gallery").append("<img src='"+response.data[n].images.original.url+"'>");
         }
-    }); 
+    });
 });

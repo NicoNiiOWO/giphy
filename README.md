@@ -3,7 +3,7 @@
 ## Project Description
 In this unit, you will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, you will learn the anatomy of an API Request, use AJAX to make a simple GET request, handle a JSON response object, and use jQuery to display a gif.
 
-Follow the steps below to make your very own site! 
+Follow the steps below to make your very own site!
 Make sure to check off your items as you complete them. [ ] => [x]
 
 
@@ -13,7 +13,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Fork this repository to your github account and clone it to a new workspace
 - [x] Review your Starter Code and make sure you understand what code has already been written for you.
 - [x] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Make your site live on gh-pages
 
 ### JS
 - [x] Create  an AJAX function inside the click handler
@@ -21,27 +21,25 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Display the original image to the screen
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 2
 ### JS
 - [x] Take user input from the input box when button is clicked
 - [x] Update the API request url based on user input
-- [x] Display the image to the screen 
+- [x] Display the image to the screen
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 
 ## Day 3
 ### JS
-- [ ] Complete one of the folowing extensions 
+- [x] Complete one of the folowing extensions
     - Create a button that randomly chooses only one gif from response.
     - Display all the images in the response to the screen.
     - Create a mail_to link that will email the gif to anyone you want.
     - Make the gif pop out in a modal when clicked on.
 
 ### Wrap
-- [ ] Push your changes!
-
-
+- [x] Push your changes!
